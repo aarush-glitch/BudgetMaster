@@ -1,4 +1,3 @@
-```markdown
 # FinanceTracker
 
 FinanceTracker is a C++ application designed to help users manage their finances effectively. It provides a user-friendly interface for tracking income, expenses, and offers financial advice based on the user's financial status.
@@ -47,4 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need for a simple yet effective budget tracking tool.
 - Special thanks to [OpenAI](https://openai.com) for providing valuable insights and assistance.
-```
