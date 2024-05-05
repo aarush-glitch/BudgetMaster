@@ -1,4 +1,4 @@
-# FinanceTracker
+# BudgetMaster
 
 FinanceTracker is a C++ application designed to help users manage their finances effectively. It provides a user-friendly interface for tracking income, expenses, and offers financial advice based on the user's financial status.
 
