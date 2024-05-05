@@ -1,6 +1,6 @@
 # BudgetMaster
 
-FinanceTracker is a C++ application designed to help users manage their finances effectively. It provides a user-friendly interface for tracking income, expenses, and offers financial advice based on the user's financial status.
+BudgetMaster is a C++ application designed to help users manage their finances effectively. It provides a user-friendly interface for tracking income, expenses, and offers financial advice based on the user's financial status.
 
 ## Features
 
@@ -15,21 +15,21 @@ FinanceTracker is a C++ application designed to help users manage their finances
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your_username/FinanceTracker.git
+   git clone https://github.com/aarush-glitch/BudgetMaster.git
    ```
 
 2. **Compile and Run**:
    ```
-   cd FinanceTracker
-   g++ main.cpp -o FinanceTracker
-   ./FinanceTracker
+   cd BudgetMaster
+   g++ main.cpp -o BudgetMaster
+   ./BudgetMaster
    ```
 
 3. **Follow On-screen Instructions**: The application provides a menu-based interface for easy navigation. Simply follow the on-screen instructions to perform various tasks such as signing up, logging in, tracking income/expenses, and accessing financial advice.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to FinanceTracker, please follow these steps:
+Contributions are welcome! If you'd like to contribute to BudgetMaster, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
