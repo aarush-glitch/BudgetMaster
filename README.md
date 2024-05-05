@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - This project was inspired by the need for a simple yet effective budget tracking tool.
-- Special thanks to [OpenAI](https://openai.com) for providing valuable insights and assistance.
+- Special thanks to my teammates who put great effort in completing this project in the time limit.
